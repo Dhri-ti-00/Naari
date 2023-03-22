@@ -1,17 +1,21 @@
 package com.dan.naari;
 
 public class nr {
-    public nr(String nr1) {
-        this.nr1 = nr1;
-    }
+
+
+    public nr(String nr) {
+        this.nr2 = nr;
+
 
     public String getNr() {
-        return nr1;
+        return nr2;
     }
 
-    public void setNr(String nr1) {
-        this.nr1 = nr1;
-    }
 
-    private String nr1;
+
+    public void setNr(String nr) {
+        this.nr2 = nr;
+
+
+    private String nr2;
 }
