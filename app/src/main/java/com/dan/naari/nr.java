@@ -1,4 +1,10 @@
+package com.dan.naari;
+
 public class nr {
+    public nr(String nr) {
+        this.nr = nr;
+    }
+
     public String getNr() {
         return nr;
     }
@@ -7,9 +13,5 @@ public class nr {
         this.nr = nr;
     }
 
-    public nr(String nr) {
-        this.nr = nr;
-    }
-
-    String nr;
+    private String nr;
 }
