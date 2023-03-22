@@ -1,4 +1,8 @@
 public class nr {
+<<<<<<< HEAD
+=======
+    private String name;
+>>>>>>> b1
     private int age;
     private String mail;
 

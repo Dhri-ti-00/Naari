@@ -1,5 +1,5 @@
 package com.dan.naari;
 
 public class Dhriti {
-    String name3;
+    String name;
 }
