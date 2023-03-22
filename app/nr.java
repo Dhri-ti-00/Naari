@@ -1,6 +1,6 @@
 public class nr {
     private String name;
-    private int num;
+    private int age;
     private String mail;
 
     public String getName() {
